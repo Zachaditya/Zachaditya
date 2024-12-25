@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Zachary 
 
 <!--
 **Zachaditya/Zachaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🚀 About Me
+🌟 Passionate about building impactful machine learning solutions and predictive analytics tools.
+🎯 Currently working on projects like a Spotify Song Predictor and a Stock Market Tracker.
+🌱 Preparing for AWS Cloud Practitioner Certification and learning Azure & Power BI.
+💬 Ask me about machine learning, cloud computing, and data visualization!
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
