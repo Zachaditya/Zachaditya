@@ -1,14 +1,8 @@
 ## Hi there 👋 I'm Zachary 
-
+🎓 Senior at UC Berkeley
+💻 Aspiring Machine Learning Engineer | Data Science Enthusiast | Blockchain Enthusiast
 <!--
 **Zachaditya/Zachaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-🚀 About Me
-🌟 Passionate about building impactful machine learning solutions and predictive analytics tools.
-🎯 Currently working on projects like a Spotify Song Predictor and a Stock Market Tracker.
-🌱 Preparing for AWS Cloud Practitioner Certification and learning Azure & Power BI.
-💬 Ask me about machine learning, cloud computing, and data visualization!
 
 
 - 🔭 I’m currently working on ...
@@ -20,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+🌟 Passionate about building impactful machine learning solutions and predictive analytics tools. <br>
+🎯 Currently working on personal projects. <br>
+🌱 Learning more and more about machine learning techniques, DeFi and data science tools. <br>
+
+## 🛠 Technologies & Tools
+Languages: Python, Java, SQL, C++, Solidity <br>
+Data Science: Pandas, Scikit-learn, PyTorch, Azure <br>
+Visualization: Tableau, Matplotlib <br> 
+
+## 👀 Currently working on 
+📈 Stock Market Tracker: Real-time stock price predictions powered by machine learning. <br>
+💥 Customer Clustering for targetted advertising <br>
+🥷 Fraud detection on transactional data
+..and more to come
+
+## 👋 Let's Connect!
+Linkedin: https://www.linkedin.com/in/zachary-aditya/
