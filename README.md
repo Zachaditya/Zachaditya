@@ -26,9 +26,9 @@ Data Science: Pandas, Scikit-learn, PyTorch, Azure <br>
 Visualization: Tableau, Matplotlib <br> 
 
 ## 👀 Currently working on 
-📈 Stock Market Tracker: Real-time stock price predictions powered by machine learning. <br>
+📈 S&P500 predictor using Random Forest Regressors <br>
 💥 Customer Clustering for targetted advertising <br>
-🥷 Fraud detection on transactional data
+🥷 Fraud detection on transactional data using Linear and Logistic Regression<br>
 ..and more to come
 
 ## 👋 Let's Connect!
