@@ -22,8 +22,8 @@
 
 ## 🛠 Technologies & Tools
 Languages: Python, Java, SQL, C++, Solidity <br>
-Data Science: Pandas, Scikit-learn, PyTorch, Azure <br>
-Visualization: Tableau, Matplotlib <br> 
+Data Science:Pandas, TensorFlow, Scikit-Learn, PyTorch <br>
+Visualization: Tableau, Seaborn, Matplotlib <br> 
 
 ## 👀 Currently working on 
 📈 S&P500 predictor using Random Forest Regressors <br>
