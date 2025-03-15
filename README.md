@@ -25,11 +25,23 @@ Languages: Python, Java, SQL, C++, Solidity <br>
 Data Science:Pandas, TensorFlow, Scikit-Learn, PyTorch <br>
 Visualization: Tableau, Seaborn, Matplotlib <br> 
 
-## 👀 Currently working on 
-📈 S&P500 predictor using Random Forest Regressors <br>
-💥 Customer Clustering for targetted advertising <br>
-🥷 Fraud detection on transactional data using Linear and Logistic Regression<br>
-..and more to come
+## 👀 Personal Projects 👾
+### Interactive Tableau Dashboard | Tech Used: SQL & Tableau 
+- Designed an interactive Tableau dashboard to visualize sales metrics, highlighting top-performing products and underperforming categories for revenue optimization  
+
+### E-Commerce Prediction System | Tech Used: Python, Pandas, Scikit-learn, NLP, FuzzyWuzzy, Cosine Similarity, Tokenzation, HTML, CSS and Javascript 
+- Built a search engine to recommend products based on user search queries using Natural Language Processing (NLP)  
+- Implemented tokenization, TF-IDF vectorization, and cosine similarity to match user queries from the Walmart catalog
+- Built an e-commerce website frontend using HTML, CSS and Javascript allowing users to search for products easily
+
+### S&P 500 Predictor | Tech Used: Python, Pandas, Scikit-learn, Jupyter Notebook
+- Developed a machine learning model using a Random Forest Classifier to predict S&P 500 stock price movements  
+- Achieved a testing precision score of 67% by engineering key financial features and optimizing hyperparameters
+  
+### Spotify Playlist Predictor | Tech Used: Python,Pandas, Scikit-learn, HTML, CSS and Javascript (Ongoing)
+- Developing a machine learning model to create a tailored playlist for user's entered songs
+- Built a search engine for users to find and enter their favorite songs (similar to add-to-cart)
+  
 
 ## 👋 Let's Connect!
 Linkedin: https://www.linkedin.com/in/zachary-aditya/
