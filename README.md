@@ -1,47 +1,54 @@
-## Hi there 👋 I'm Zachary 
-🎓 Senior at UC Berkeley
-💻 Aspiring Machine Learning Engineer | Data Science Enthusiast | Blockchain Enthusiast
-<!--
-**Zachaditya/Zachaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋 I'm Zachary
+🎓 UC Berkeley Data Science (Senior)  
+💻 Full-Stack Engineer | ML + Data Systems | Fintech + AI Product Builder  
 
 ## 🚀 About Me
-🌟 Passionate about building impactful machine learning solutions and predictive analytics tools. <br>
-🎯 Currently working on personal projects. <br>
-🌱 Learning more and more about machine learning techniques, DeFi and data science tools. <br>
+🌟 I like building end-to-end products that combine clean UX, reliable backend systems, and practical ML.  
+🎯 Currently shipping personal projects across e-commerce, recommendations/search, and financial risk modeling.  
+🌱 Interests: machine learning, data engineering, applied statistics, and AI-powered product workflows.
 
 ## 🛠 Technologies & Tools
-Languages: Python, Java, SQL, C++, Solidity <br>
-Data Science:Pandas, TensorFlow, Scikit-Learn, PyTorch <br>
-Visualization: Tableau, Seaborn, Matplotlib <br> 
+**Languages:** Python, TypeScript, SQL, Java, C++, Solidity  
+**ML/Data:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow  
+**Web:** Next.js, React, Tailwind, FastAPI  
+**Data Viz:** Tableau, Matplotlib  
 
 ## 👀 Personal Projects 👾
-### Interactive Tableau Dashboard | Tech Used: SQL & Tableau 
-- Designed an interactive Tableau dashboard to visualize sales metrics, highlighting top-performing products and underperforming categories for revenue optimization  
 
-### E-Commerce Prediction System | Tech Used: Python, Pandas, Scikit-learn, NLP, FuzzyWuzzy, Cosine Similarity, Tokenzation, HTML, CSS and Javascript 
-- Built a search engine to recommend products based on user search queries using Natural Language Processing (NLP)  
-- Implemented tokenization, TF-IDF vectorization, and cosine similarity to match user queries from the Walmart catalog
-- Built an e-commerce website frontend using HTML, CSS and Javascript allowing users to search for products easily
+### HM-Shop: E-commerce Simulation + AI Shopping Assistant (Jan 2026)
+**Tech:** Next.js, TypeScript, Tailwind, FastAPI, SQLite, LLM  
+- Modern storefront over an H&M dataset: category browsing, search/filtering, product pages, cart/checkout  
+- Built a catalog-grounded AI shopping assistant (recommendations without hallucinating products)  
+Repo: https://github.com/Zachaditya/eshop-hm_dataset
 
-### S&P 500 Predictor | Tech Used: Python, Pandas, Scikit-learn, Jupyter Notebook
-- Developed a machine learning model using a Random Forest Classifier to predict S&P 500 stock price movements  
-- Achieved a testing precision score of 67% by engineering key financial features and optimizing hyperparameters
-  
-### Spotify Playlist Predictor | Tech Used: Python,Pandas, Scikit-learn, HTML, CSS and Javascript (Ongoing)
-- Developing a machine learning model to create a tailored playlist for user's entered songs
-- Built a search engine for users to find and enter their favorite songs (similar to add-to-cart)
-  
+### Digital Asset Credit Score (DACS): Wallet-Level Risk Modeling (June 2025)
+**Tech:** Python, Statistics, Risk Analysis, Financial Modeling  
+- Built a wallet-level risk scoring framework for crypto-collateralized lending  
+- Focused on interpretable signals and practical decisioning for underwriting/risk controls  
+Repo: https://github.com/Zachaditya/Digital-Asset-Credit-Score-Wallet-Level-Risk-Modeling
+
+### Spotify Playlist Generator (March 2025)
+**Tech:** ML, Recommendation Systems, Search, UI/UX  
+- Spotify-style playlist builder with track search and ML-driven recommendations based on playlist context  
+- Modular pipeline for ranking and experimentation with recommendation logic  
+Repo: https://github.com/Zachaditya/playlist_recommender
+
+### Tableau Dashboard for Sales Analysis (January 2025)
+**Tech:** Tableau, SQL, Interactive Dashboards  
+- Built an interactive dashboard to analyze sales/revenue with drilldowns by segment/time/category  
+- Used SQL transformations to clean and aggregate transaction data into analysis-ready tables  
+Repo: https://github.com/Zachaditya/Tableau_salesDashboard
+
+### S&P 500 Predictor using Machine Learning (December 2024)
+**Tech:** Python, Scikit-learn, Jupyter, Statistics  
+- Trained a Random Forest classifier to predict next-day S&P 500 direction from market/technical features  
+- Evaluated with precision-focused metrics and time-aware validation to reduce lookahead bias  
+Repo: https://github.com/Zachaditya/SP500-Predictor
+
+### E-Commerce Product Search + Recommendation Engine
+**Tech:** Python, NLP, TF-IDF, Cosine Similarity, RapidFuzz/Fuzzy Matching, HTML/CSS/JS  
+- Built a search/recommender system that matches product queries to catalog items using NLP + similarity scoring  
+- Implemented tokenization, TF-IDF vectorization, and ranking for better query relevance  
 
 ## 👋 Let's Connect!
-Linkedin: https://www.linkedin.com/in/zachary-aditya/
+LinkedIn: https://www.linkedin.com/in/zachary-aditya/
