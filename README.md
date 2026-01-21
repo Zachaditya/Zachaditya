@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Zachary
-🎓 UC Berkeley Data Science (Senior)  
+## Hi there 👋 I'm Zachary 
 💻 Full-Stack Engineer | ML + Data Systems | Fintech + AI Product Builder  
+🎓 UC Berkeley Data Science (BS)
 
 ## 🚀 About Me
 🌟 I like building end-to-end products that combine clean UX, reliable backend systems, and practical ML.  
