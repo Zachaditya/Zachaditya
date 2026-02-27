@@ -14,6 +14,7 @@ currently building AI-native products like an e-commerce simulation that mimics 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zachaditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 
 ## 👀 Personal Projects 👾
