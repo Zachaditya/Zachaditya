@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Zachary 
 👀 Check out my personal website! https://zachaditya.app Spend a lot of time brewing updates and improving it! 
+<br>
 💻 Full-Stack Engineer | Agentic + AI Systems | Fintech + AI Product Builder  
 🎓 UC Berkeley Data Science (BA)
 
